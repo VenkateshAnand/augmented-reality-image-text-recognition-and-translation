@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEXTRECOGNITION", "Assembly-CSharp.csproj", "{079BDF4D-7F1B-FFD8-472A-E3847D956975}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEXTRECOGNITION", "Assembly-CSharp-Editor.csproj", "{9E8B8DDB-B5C4-3559-88C5-E944148EA2EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079BDF4D-7F1B-FFD8-472A-E3847D956975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079BDF4D-7F1B-FFD8-472A-E3847D956975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079BDF4D-7F1B-FFD8-472A-E3847D956975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079BDF4D-7F1B-FFD8-472A-E3847D956975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E8B8DDB-B5C4-3559-88C5-E944148EA2EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8B8DDB-B5C4-3559-88C5-E944148EA2EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8B8DDB-B5C4-3559-88C5-E944148EA2EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8B8DDB-B5C4-3559-88C5-E944148EA2EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
